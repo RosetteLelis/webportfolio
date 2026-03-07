@@ -1,2 +1,2 @@
 # webportfolio
-web portfolio
+web portfolio for school requirements
