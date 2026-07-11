@@ -761,6 +761,12 @@ body.mobile-nav-active #mobile-nav-toggle {
     transform: translateY(-15px);
 }
 
+.counters .counter .counter-icon-box img {
+    height: 50px;
+    width: auto;
+    margin-bottom: 15px;
+}
+
 .counters .counter .number {
     font-size: 70px;
     margin: 0 0 15px;
@@ -784,7 +790,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #ffffff;
     font-size: 18px;
     font-weight: 400;
-    text-transform: uppercase;
 }
 
 
